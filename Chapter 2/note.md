@@ -23,3 +23,6 @@ As a final step, after testing and debugging, you would likely want to move it t
 1. System administrators often write scripts to automate common tasks. Give several instances where such scripts would be useful.
 2. Write a script that upon invocation shows the time and date, lists all logged-in users, and gives the system uptime. The script then saves this information to a logfile.
 > to directly use a command in the script, use \`+command-name not '.
+
+Date: [^date]
+[^date]: 25/11/2020
